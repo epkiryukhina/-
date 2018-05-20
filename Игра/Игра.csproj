@@ -84,13 +84,25 @@
     <None Include="Resources\128 %281%29.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\clouds_texture2896.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\0_8cbe3_3871c069_L.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\56cdae63c14b6153137135d0.png" />
+    <None Include="Resources\Bottle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bottle5.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

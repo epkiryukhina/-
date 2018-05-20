@@ -83,9 +83,9 @@ namespace Игра.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _56cdae63c14b6153137135d0 {
+        internal static System.Drawing.Bitmap Bottle1 {
             get {
-                object obj = ResourceManager.GetObject("56cdae63c14b6153137135d0", resourceCulture);
+                object obj = ResourceManager.GetObject("Bottle1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,39 @@ namespace Игра.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap clouds_texture2896 {
+        internal static System.Drawing.Bitmap Bottle2 {
             get {
-                object obj = ResourceManager.GetObject("clouds_texture2896", resourceCulture);
+                object obj = ResourceManager.GetObject("Bottle2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bottle3 {
+            get {
+                object obj = ResourceManager.GetObject("Bottle3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bottle4 {
+            get {
+                object obj = ResourceManager.GetObject("Bottle4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bottle5 {
+            get {
+                object obj = ResourceManager.GetObject("Bottle5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
